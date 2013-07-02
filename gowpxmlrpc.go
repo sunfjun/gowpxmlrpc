@@ -1,7 +1,7 @@
 package wordpress
 
 import (
-	"github.com/sunfjun/xmlrpc"
+	"github.com/sunfjun/go-xmlrpc"
 )
 
 type BlogAccount struct {
